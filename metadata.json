@@ -1,0 +1,9 @@
+
+{
+  "name": "BridgeVoice",
+  "description": "A transformative communication tool for individuals with hearing, speech, or visual impairments, featuring sign language recognition, real-time transcription, and Braille support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
