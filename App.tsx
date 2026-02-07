@@ -1,3 +1,4 @@
+import InstallButton from "./InstallButton";
 
 import React, { useState, useCallback, useEffect } from 'react';
 import { 
